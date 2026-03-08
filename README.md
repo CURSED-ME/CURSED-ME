@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I'm Varad 👋
 
-<!--
-**CURSED-ME/CURSED-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building **[LexOculus](https://lexoculus.com)** (AI Compliance) by day.
+Shipping **[AgentTrace](https://github.com/CURSED-ME/agent_trace)** (LLM Observability) on weekends.
 
-Here are some ideas to get you started:
+I like making tools that developers actually need. 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏢 LexOculus — AI Compliance Platform
+Helping companies navigate the EU AI Act with automated risk classification, dependency scanning, and compliance reporting.
+
+### 🔍 AgentTrace — Open-Source LLM Debugging
+Zero-config visual debugging & auto-evaluation for AI agents. One import. 15+ frameworks. No cloud required.
+
+```bash
+pip install agenttrace-ai
